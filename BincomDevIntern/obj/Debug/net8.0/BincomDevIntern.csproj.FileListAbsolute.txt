@@ -1,0 +1,14 @@
+C:\BincomDev\BincomDevIntern\BincomDevIntern\bin\Debug\net8.0\BincomDevIntern.exe
+C:\BincomDev\BincomDevIntern\BincomDevIntern\bin\Debug\net8.0\BincomDevIntern.deps.json
+C:\BincomDev\BincomDevIntern\BincomDevIntern\bin\Debug\net8.0\BincomDevIntern.runtimeconfig.json
+C:\BincomDev\BincomDevIntern\BincomDevIntern\bin\Debug\net8.0\BincomDevIntern.dll
+C:\BincomDev\BincomDevIntern\BincomDevIntern\bin\Debug\net8.0\BincomDevIntern.pdb
+C:\BincomDev\BincomDevIntern\BincomDevIntern\obj\Debug\net8.0\BincomDevIntern.GeneratedMSBuildEditorConfig.editorconfig
+C:\BincomDev\BincomDevIntern\BincomDevIntern\obj\Debug\net8.0\BincomDevIntern.AssemblyInfoInputs.cache
+C:\BincomDev\BincomDevIntern\BincomDevIntern\obj\Debug\net8.0\BincomDevIntern.AssemblyInfo.cs
+C:\BincomDev\BincomDevIntern\BincomDevIntern\obj\Debug\net8.0\BincomDevIntern.csproj.CoreCompileInputs.cache
+C:\BincomDev\BincomDevIntern\BincomDevIntern\obj\Debug\net8.0\BincomDevIntern.dll
+C:\BincomDev\BincomDevIntern\BincomDevIntern\obj\Debug\net8.0\refint\BincomDevIntern.dll
+C:\BincomDev\BincomDevIntern\BincomDevIntern\obj\Debug\net8.0\BincomDevIntern.pdb
+C:\BincomDev\BincomDevIntern\BincomDevIntern\obj\Debug\net8.0\BincomDevIntern.genruntimeconfig.cache
+C:\BincomDev\BincomDevIntern\BincomDevIntern\obj\Debug\net8.0\ref\BincomDevIntern.dll
